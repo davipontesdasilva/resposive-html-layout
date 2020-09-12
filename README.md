@@ -14,8 +14,6 @@
 
 ## 🚀 CODE STYLE 
 
-O projeto foi desenvolvido utilizando as seguintes tecnologias
-
  - [Html](https://www.w3schools.com/html/html_basic.asp)
  - [Css](https://www.w3schools.com/css/default.asp)
  - [@media](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
@@ -23,30 +21,23 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
  
  ---
  
-##CHECK LIVE 
-[live](https://www.youtube.com/watch?v=Gcb60rPbnKA)
+## LIVE DEMO 
+[live](https://confident-mccarthy-a57620.netlify.app/)
  
  ---
  
- ## 💾 Como baixar o projeto 
+ ## 💾 Download the Project 
  
  ```bash
-#Clonar repositorio
-$ git clone
+#Clone a Repository
+$ git clone https://github.com/davipontesdasilva/resposive-html-layout.git
 
-# Entrar no diretorio
-$ cd resposivehtmllayout
 
-#Instalar as dependencias
-$ yarn install
-
-# Iniciar o projeto
-$yarn start
 ```
 
 ---
 
-##Acknowledgements 
+## Acknowledgements 
 
 [The Complete Web Developer in 2020: Zero to Mastery](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)
 
